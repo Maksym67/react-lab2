@@ -1,15 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/header/main-header';
-import Navbar from './components/header/sub-header';
-import Slider from './components/main/slider';
+import MainNavbar from './components/header/navbar';
+import RedCarousel from './components/main/carousel';
+import MainPart from './components/main/main-content';
+import Footer from './components/footer';
 
 function App() {
   return (
     <div className='main-page'>
       <Header/>
-      <Navbar/>
-      <Slider/>
+      <MainNavbar/>
+      <RedCarousel/>
+      <MainPart/>
+      <Footer/>
     </div>
   );
 }

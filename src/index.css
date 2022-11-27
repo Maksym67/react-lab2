@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "CaviarDreamsBold";
+  src: local("CaviarDreamsBold"),
+   url("./fonts/CaviarDreams_Bold.ttf") format("truetype");
+  font-weight: bold;
+}

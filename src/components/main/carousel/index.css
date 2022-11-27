@@ -1,0 +1,42 @@
+.slide {
+  height: 65vh;
+  overflow-x: hidden;
+}
+
+.carousel-control-prev {
+  justify-content: flex-start;
+}
+
+.carousel-control-next {
+  justify-content: flex-end;
+}
+
+.carousel-control-prev-icon {
+  padding: 30px 0 30px 0;
+  background-color: black;
+}
+
+.carousel-control-next-icon {
+  padding: 30px 0 30px 0;
+  background-color: black;
+}
+
+.carousel-control-prev:hover {
+  opacity: .5;
+}
+
+.carousel-control-next:hover {
+  opacity: .5;
+}
+
+.carousel-control-prev:active {
+  opacity: 1;
+}
+
+.carousel-control-next:active {
+  opacity: 1;
+}
+
+.carousel-indicators {
+  display: none;
+}
