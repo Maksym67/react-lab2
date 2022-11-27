@@ -14,6 +14,5 @@ SAVE 2
 3. Bootstrap added.
 4. Carousele finished.
 5. Navbar finished.
-6. Main part in progress.
-Readme updated.
+6. Footer finished.
 ---------
