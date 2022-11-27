@@ -29,7 +29,7 @@ function Footer() {
                 <div className="footer-title">Latest Gallery</div>
                 <hr className="footer-divider"/>
                 <div className="pics-grid">
-                    <div class="pic1"><img src={Pic1}/></div>
+                    <div class="pic1"><img src={Pic2}/></div>
                     <div class="pic2"><img src={Pic1}/></div>
                     <div class="pic3"><img src={Pic1}/></div>
                     <div class="pic4"><img src={Pic1}/></div>
