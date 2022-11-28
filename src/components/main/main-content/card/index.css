@@ -1,0 +1,42 @@
+.card-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-content {
+    height: 90px;
+    margin-right: 25px;
+}
+
+.text-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.headline-text {
+    font-size: 1.4em;
+    font-family: "CaviarDreamsBold";
+    font-weight: normal;
+    line-height: normal;
+    text-transform: capitalize;
+    color: #666666;
+    margin-bottom: 15px;
+}
+
+.description-text {
+    color: #666666;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-link {
+    margin-top: 5px;
+    align-self: flex-end;
+    text-decoration: none;
+    font-size: 16px;
+    color: #FF9900;
+}
+
+.card-link:hover {
+    color: #FF9900;
+}

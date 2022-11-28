@@ -1,18 +1,8 @@
----------
-SAVE 1
+React Lab 2
 
-1. Project started.
-2. Header created.
-3. !! Navbar in progress.
-4. !! Carousel in progress.
 ---------
 
-SAVE 2
+SAVE 3
 
-1. Router added.
-2. Project title added.
-3. Bootstrap added.
-4. Carousele finished.
-5. Navbar finished.
-6. Footer finished.
+1. Project finished.
 ---------
